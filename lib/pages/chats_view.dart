@@ -24,7 +24,7 @@ class ChatsPage extends StatelessWidget {
         },
       ),
       floatingActionButton: FloatingActionButton(
-        tooltip: 'Select Contact',
+        tooltip: 'Select Contact to Chat',
         splashColor: Colors.black,
         onPressed: () {},
         child: Icon(Icons.message),
